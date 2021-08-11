@@ -1,0 +1,33 @@
+body {
+    background-color: #1c2430;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.laptop{
+    width:100%
+}
+.video{
+  position: absolute;
+  width: 30%;
+  height: 35%;
+  left: 55%;
+ 
+}
+.col-sm-6{
+    color:#fbaf19;
+    
+}
+.header-{
+    color: #fbaf19;
+    text-align: center;
+    padding-top:40%;
+}
+.header-4{
+    color: white;
+}
+.path-image{
+    
+}
+.container{
+    background-color: #1c2430;
+}

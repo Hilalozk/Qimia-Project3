@@ -1,0 +1,21 @@
+body {
+    background-color: #1c2430;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.navbar-custom{
+    background-color: #1c2430;
+    text-align: center;
+    color: white;
+    flex-direction:row;
+}
+.logo-image{
+    position: relative;
+}
+.basic-navbar-nav{
+    color: white;
+}
+.me-auto{
+    color: white;
+}
